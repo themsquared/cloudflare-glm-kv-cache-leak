@@ -1,6 +1,6 @@
 # Cloudflare GLM-5.3 KV cache leak (sim)
 
-> 📖 **Read the write-up:** coming soon on [webofmike.com](https://webofmike.com)
+> 📖 **Read the write-up:** [Why Cloudflare's GLM-5.3 KV Cache Leaked Across Tenants](https://webofmike.com/cloudflare-glm-kv-cache-leak/)
 
 A from-scratch, in-memory simulation of the bug pattern Cloudflare and the
 SGLang project described in two public postmortems published 2026-10-26:
